@@ -1,18 +1,27 @@
-🌐 My Portfolio
+# 🌐 Personal Portfolio (v1 - HTML/CSS/JS)
 
-Welcome to the repository of my personal portfolio, available at lucas-corrieras.com. 🚀
+This is the **first version** of my personal portfolio.
 
-✨ About
+🛠️ **Tech stack used**:
+- **HTML5** – Structure and content
+- **Tailwind CSS** – For styling with a utility-first approach
+- **JavaScript** – For interactivity and dynamic elements
 
-This portfolio showcases my projects, skills, and journey in web development. It follows a mobile-first approach and is optimized for performance.
+🚧 **Notes**:
+This initial version was a great learning experience, but had several limitations:
+- Mobile-first design was not properly implemented
+- Optimization issues affected performance and layout on different screen sizes
+- No framework was used, making scalability harder
 
-📌 Technologies Used
-	•	HTML, CSS, JavaScript
-	•	Hosted on GitHub Pages
-	•	Custom domain: lucas-corrieras.com
+Despite these challenges, it helped me solidify my fundamentals in front-end development and understand the importance of responsive design and performance.
 
-🔗 Access the Website
+📌 **Project goals**:
+- Share my academic and personal work
+- Practice web design and basic interactivity
+- Build the foundation for future portfolio versions
 
-👉 lucas-corrieras.com
+🔗 [Check it out]([http://193.168.147.179/Port/])
 
-Feel free to check it out and share your feedback!
+---
+
+Made with 💻 by Lucas Corrieras
